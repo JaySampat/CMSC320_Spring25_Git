@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git in order to save our code somewhere that is not our local machine. Additionally, we can consider using Git to be able to collaborate with other on projects and tasks. 
+
